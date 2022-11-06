@@ -1,6 +1,6 @@
 # Combinatorial auction: slides
 
-This repo contains the code for generating slides covering the topic of **combinatarial auctions**, done as part of the course [20602-Algorithms](https://didattica.unibocconi.it/ts/tsn_anteprima.php?cod_ins=20602&anno=2021&IdPag=6352).
+This repo contains the code for generating slides covering the topic of **combinatorial auctions**, done as part of the course [20602-Algorithms](https://didattica.unibocconi.it/ts/tsn_anteprima.php?cod_ins=20602&anno=2021&IdPag=6352).
 You can find a Julia implementation of the proposed models here [github.com/andreateruzzi/combinatorial_auction_ILP](https://github.com/andreateruzzi/combinatorial_auction_ILP).
 
 ## Branches
